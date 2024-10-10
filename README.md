@@ -76,11 +76,10 @@ pip3 install -r requirements.txt
 python3 main.py
 ````
 
-### Admin Commands
+### Media Content List
 
 ```
-/start - start the bot or get posts
-
+• 
 /batch - create link for more than one posts
 
 /genlink - create link for one post
